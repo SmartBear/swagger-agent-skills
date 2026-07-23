@@ -13,14 +13,6 @@ Connect Cursor to **Swagger by SmartBear** with OAuth sign-in and ready-made API
 - **AI-assisted design** — generate an API definition from a natural-language description and auto-fix governance violations
 - **API portals** — create and publish portal products and documentation pages
 
-### Commands
-
-| Command | What it does |
-|---|---|
-| `/validate-api-contract` | Scan a local or SwaggerHub OpenAPI definition against your organization's governance rules and fix violations |
-| `/generate-api-tests` | Generate executable API tests from an OpenAPI definition in your project's test framework |
-| `/check-api-drift` | Compare the definition published in SwaggerHub with the actual implementation in your codebase and report drift |
-
 ### Rules
 
 A context rule that teaches the agent when to reach for Swagger tools during everyday API design, documentation, and testing tasks.
@@ -29,7 +21,7 @@ A context rule that teaches the agent when to reach for Swagger tools during eve
 
 1. Install the plugin from the Cursor Marketplace (or add this repository via **Settings → Plugins**).
 2. Open any project. On the first Swagger tool call, a browser window opens for SmartBear OAuth login — sign in and approve.
-3. Done. Try it: `/validate-api-contract`, or ask *"search SwaggerHub for our payments API"*.
+3. Done. Try it: ask *"search Swagger for our payments API"*.
 
 You need a [SmartBear account](https://smartbear.com/) with access to SwaggerHub.
 

@@ -29,6 +29,4 @@ echo
 echo "Done. Now:"
 echo "  1. Restart Cursor (Cmd+Q) or run 'Developer: Reload Window'."
 echo "  2. Check Settings > Plugins: 'swagger' should be listed under Installed."
-echo "  3. Type '/' in the agent chat: validate-api-contract, generate-api-tests,"
-echo "     check-api-drift should appear."
-echo "  4. First MCP tool call opens a browser window for SmartBear OAuth login."
+echo "  3. First MCP tool call opens a browser window for SmartBear OAuth login."

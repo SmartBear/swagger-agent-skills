@@ -23,6 +23,5 @@
   ],
   "category": "developer-tools",
   "tags": ["api", "openapi", "testing"],
-  "rules": "./rules/",
-  "commands": "./commands/"
+  "rules": "./rules/"
 }
