@@ -21,7 +21,5 @@
     "smartbear",
     "mcp"
   ],
-  "category": "developer-tools",
-  "tags": ["api", "openapi", "testing"],
   "rules": "./rules/"
 }

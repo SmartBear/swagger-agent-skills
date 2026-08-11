@@ -24,8 +24,6 @@
     "com.anysphere.cursor": {
       "displayName": "Swagger",
       "logo": "assets/logo.png",
-      "category": "developer-tools",
-      "tags": ["api", "openapi", "testing"],
       "rules": "./rules/"
     }
   }

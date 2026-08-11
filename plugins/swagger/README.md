@@ -23,7 +23,7 @@ A context rule that teaches the agent when to reach for Swagger tools during eve
 2. Open any project. On the first Swagger tool call, a browser window opens for SmartBear OAuth login — sign in and approve.
 3. Done. Try it: ask *"search Swagger for our payments API"*.
 
-You need a [SmartBear account](https://smartbear.com/) with access to SwaggerHub.
+You need a [SmartBear account](https://smartbear.com/) with access to Swagger Studio.
 
 ## Advanced: other SmartBear products
 
