@@ -9,10 +9,10 @@
   "plugins": [
     {
       "name": "swagger",
-      "source": "plugins/swagger",
+      "source": "plugins/cursor",
       "version": "1.0.0",
       "description": "Connect Cursor to Swagger by SmartBear: design, validate, and publish APIs with SwaggerHub registry access, governance scans, AI-assisted API generation, and API portal documentation. OAuth sign-in, no API tokens required.",
-      "logo": "assets/logo.png",
+      "logo": "plugins/cursor/assets/logo.png",
       "category": "developer-tools",
       "tags": ["api", "openapi", "testing"],
       "keywords": [
