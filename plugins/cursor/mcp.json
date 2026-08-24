@@ -1,7 +1,7 @@
 {
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
   "mcpServers": {
     "smartbear-swagger": {
+      "type": "http",
       "url": "https://swagger.mcp.smartbear.com/mcp"
     }
   }
