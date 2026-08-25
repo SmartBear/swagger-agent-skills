@@ -1,5 +1,5 @@
 ---
-description: When to use Swagger MCP tools for OpenAPI design, API governance, SwaggerHub registry, and API portal documentation tasks
+description: When to use Swagger MCP tools for OpenAPI design, API governance, Swagger registry, and API portal documentation tasks
 alwaysApply: false
 ---
 
@@ -7,7 +7,7 @@ alwaysApply: false
 
 This workspace has access to SmartBear's hosted Swagger MCP server (tools prefixed `swagger_`). Prefer these tools over guessing or scraping when the task involves OpenAPI definitions, API governance, Swagger Studio, or API portals:
 
-- **Registry (SwaggerHub)**: searching, fetching, creating, or updating API definitions (`swagger_search_apis_and_domains`, `swagger_get_api_definition`, `swagger_create_or_update_api`, `swagger_list_organizations`).
+- **Registry (Swagger)**: searching, fetching, creating, or updating API definitions (`swagger_search_apis_and_domains`, `swagger_get_api_definition`, `swagger_create_or_update_api`, `swagger_list_organizations`).
 - **Governance**: validating an API definition against organizational standardization rules (`swagger_scan_api_standardization` for raw YAML/JSON, `swagger_scan_api_standardization_from_registry` for registry APIs). Always scan before publishing.
 - **AI-assisted design**: generating a new API definition from a natural-language description (`swagger_create_api_from_prompt`) and auto-fixing governance violations (`swagger_standardize_api`).
 - **Portals and docs**: managing API portals, products, and documentation pages (`swagger_list_portals`, `swagger_create_documentation_page`, `swagger_publish_portal_product`, and related tools).

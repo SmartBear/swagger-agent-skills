@@ -2,7 +2,7 @@
   "name": "swagger",
   "displayName": "Swagger",
   "version": "1.0.0",
-  "description": "Connect Cursor to Swagger by SmartBear: design, validate, and publish APIs with SwaggerHub registry access, governance/standardization scans, AI-assisted API generation, and API portal documentation. OAuth sign-in, no API tokens required.",
+  "description": "Bring SmartBear Swagger into Cursor. Design and publish APIs without leaving your editor, with access to the Swagger registry, governance scans, AI-assisted API generation, and Swagger Portal documentation. OAuth sign-in, no API tokens required.",
   "author": {
     "name": "SmartBear"
   },

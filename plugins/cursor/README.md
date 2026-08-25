@@ -8,7 +8,7 @@ Connect Cursor to **Swagger by SmartBear** with OAuth sign-in and ready-made API
 
 `https://swagger.mcp.smartbear.com/mcp` gives the agent access to:
 
-- **SwaggerHub registry** — search, fetch, create, and update API definitions across your organizations
+- **Swagger registry** — search, fetch, create, and update API definitions across your organizations
 - **API governance** — scan definitions against your organization's standardization rules
 - **AI-assisted design** — generate an API definition from a natural-language description and auto-fix governance violations
 - **API portals** — create and publish portal products and documentation pages
