@@ -1,0 +1,27 @@
+{
+  "name": "swagger",
+  "displayName": "Swagger",
+  "version": "1.0.0",
+  "description": "Bring SmartBear Swagger into Cursor. Design and publish APIs without leaving your editor, with access to the Swagger registry, governance scans, AI-assisted API generation, and Swagger Portal documentation. OAuth sign-in, no API tokens required.",
+  "author": {
+    "name": "SmartBear"
+  },
+  "homepage": "https://developer.smartbear.com/smartbear-mcp",
+  "repository": "https://github.com/SmartBear/swagger-agent-skills",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "swagger",
+    "swaggerhub",
+    "swagger-portal",
+    "asyncapi",
+    "openapi",
+    "api-design",
+    "api-governance",
+    "api-documentation",
+    "api-testing",
+    "smartbear",
+    "mcp"
+  ],
+  "rules": "./rules/"
+}

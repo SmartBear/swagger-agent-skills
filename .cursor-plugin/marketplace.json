@@ -1,0 +1,33 @@
+{
+  "name": "swagger-agent-skills",
+  "owner": {
+    "name": "SmartBear"
+  },
+  "metadata": {
+    "description": "Swagger plugins and agent skills for Cursor: hosted MCP server with OAuth and ready-made API workflows."
+  },
+  "plugins": [
+    {
+      "name": "swagger",
+      "source": "plugins/cursor",
+      "version": "1.0.0",
+      "description": "Bring SmartBear Swagger into Cursor. Design and publish APIs without leaving your editor, with access to the Swagger registry, governance scans, AI-assisted API generation, and Swagger Portal documentation. OAuth sign-in, no API tokens required.",
+      "logo": "plugins/cursor/assets/logo.png",
+      "category": "developer-tools",
+      "tags": ["api", "openapi", "testing"],
+      "keywords": [
+        "swagger",
+        "swaggerhub",
+        "swagger-portal",
+        "asyncapi",
+        "openapi",
+        "api-design",
+        "api-governance",
+        "api-documentation",
+        "api-testing",
+        "smartbear",
+        "mcp"
+      ]
+    }
+  ]
+}
