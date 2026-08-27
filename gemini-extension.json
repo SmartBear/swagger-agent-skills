@@ -1,0 +1,10 @@
+{
+  "name": "swagger",
+  "version": "1.0.0",
+  "description": "Access Swagger Studio APIs, explore API definitions, and manage your API registry directly from Gemini CLI.",
+  "mcpServers": {
+    "swagger": {
+      "url": "https://swagger.mcp.smartbear.com/mcp"
+    }
+  }
+}
