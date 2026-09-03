@@ -1,12 +1,12 @@
 ---
 name: "swagger"
-displayName: "Swagger by SmartBear"
-description: "Design, validate, and publish APIs with SwaggerHub registry access, governance/standardization scans, AI-assisted API generation, and API portal documentation. OAuth sign-in, no API tokens required."
-keywords: ["swagger", "swaggerhub", "openapi", "api design", "api definition", "api governance", "api portal", "api documentation", "api validation", "api testing", "api publishing", "api standardization", "smartbear"]
+displayName: "SmartBear Swagger"
+description: "Bring SmartBear Swagger into Kiro. Design and publish APIs without leaving your editor, with access to the Swagger registry, governance scans, AI-assisted API generation, and Swagger Portal documentation. OAuth sign-in, no API tokens required."
+keywords: ["swagger", "swaggerhub", "mcp", "async api", "swagger portal", "openapi", "api design", "api definition", "api governance", "api portal", "api documentation", "api validation", "api testing", "api publishing", "api standardization", "smartbear"]
 author: "SmartBear"
 ---
 
-# Swagger by SmartBear
+# SmartBear Swagger
 
 Design, validate, and publish APIs directly from Kiro using SmartBear's hosted Swagger MCP server.
 

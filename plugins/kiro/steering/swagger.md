@@ -1,6 +1,6 @@
 # Swagger MCP tools
 
-This workspace has access to SmartBear's hosted Swagger MCP server (tools prefixed `swagger_`). Prefer these tools over guessing or scraping when the task involves OpenAPI definitions, API governance, SwaggerHub, or API portals:
+This workspace has access to SmartBear's hosted Swagger MCP server (tools prefixed `swagger_`). Prefer these tools over guessing or scraping when the task involves OpenAPI definitions, API governance, Swagger, or API portals:
 
 - **Registry (Swagger)**: searching, fetching, creating, or updating API definitions (`swagger_search_apis_and_domains`, `swagger_get_api_definition`, `swagger_create_or_update_api`, `swagger_list_organizations`).
 - **Governance**: validating an API definition against organizational standardization rules (`swagger_scan_api_standardization` for raw YAML/JSON, `swagger_scan_api_standardization_from_registry` for registry APIs). Always scan before publishing.
