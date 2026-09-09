@@ -13,7 +13,7 @@ Design, validate, and publish APIs directly from Kiro using SmartBear's hosted S
 
 ## Prerequisites
 
-- A SmartBear account (free tier available at [swagger.io](https://swagger.io/tools/swaggerhub/))
+- A SmartBear account (free tier available at [swagger.io](https://swagger.io/product/))
 - Internet access to `swagger.mcp.smartbear.com`
 
 ## Getting Started

@@ -4,7 +4,6 @@
       "type": "http",
       "url": "https://swagger.mcp.smartbear.com/mcp",
       "oauth": {
-        "redirectUri": "127.0.0.1:8080",
         "oauthScopes": []
       },
       "disabled": false,
