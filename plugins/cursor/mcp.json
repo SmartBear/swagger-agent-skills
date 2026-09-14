@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "smartbear-swagger": {
+    "swagger-mcp": {
       "type": "http",
       "url": "https://swagger.mcp.smartbear.com/mcp"
     }
